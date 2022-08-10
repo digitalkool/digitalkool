@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @digitalkool
+- 👋 Hi, I’m Ruben Ordonez @digitalkool
 - 👀 I’m interested in programming, photography, music
-- 📫 How to reach me www.rubenordonez.com
+- 📫 How to reach me: ruben@ordonez.us | www.rubenordonez.com
 
 Certified CNC motion controls applications engineer with 15+ years of experience in technical and sales support.  Expert controls engineer specializing in the installation, and integration, of PC-based CNC control systems,  for CNC machine control applications for Mills, Routers, Lathes, Laser, Waterjet, and factory automation.
 
